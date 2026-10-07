@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.up.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Meriem%20Touihri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descSize=16&descAlignY=62" width="100%" />
+<img src="./banner.svg" width="100%" />
 
 <h2 align="center">🚀 Architecting Intelligent AI Models & Scalable Engineering Systems</h2>
 
