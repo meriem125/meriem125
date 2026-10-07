@@ -189,30 +189,6 @@ Driven by a rigorous analytical mindset, I focus on optimizing predictive perfor
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meriem125&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&margin-h=4" width="100%" />
-</div>
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meriem125&theme=tokyonight&bg_color=1a1b26&color=7c3aed&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/meriem125/meriem125/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
