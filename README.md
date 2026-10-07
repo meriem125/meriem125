@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.up.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Meriem%20Touihri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descSize=16&descAlignY=62" width="100%" />
 
-### 🚀 Architecting Intelligent AI Models & Scalable Engineering Systems
+<h2>🚀 Architecting Intelligent AI Models & Scalable Engineering Systems</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cycle-Engineering%20Data%20Science%20%26%20AI-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
@@ -177,41 +177,4 @@ Driven by a rigorous analytical mindset, I focus on optimizing predictive perfor
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meriem125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&icon_color=a78bfa&text_color=c0caf5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meriem125&theme=tokyonight&hide_border=true&background=1a1b26&stroke=7c3aed&sideRank_color=7c3aed&ring=7c3aed&fire=a78bfa&currStreakNum=c0caf5" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriem125&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7c3aed&text_color=c0caf5" width="60%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - "Advanced Machine Learning Architectures & Deep Learning Models"
-  - "AWS Certified Cloud Practitioner Mastery"
-building:
-  - "Intelligent Data-Driven Applications"
-  - "Automated Enterprise Workflow Solutions"
-exploring:
-  - "Distributed Data Processing & Big Data Pipelines"
-  - "Advanced Business Intelligence & AI Integration"
-open_to:
-  - "Data Science Engineering Roles"
-  - "AI & Machine Learning Opportunities"
-  - "Open Source Collaborations"
+  <img src="
