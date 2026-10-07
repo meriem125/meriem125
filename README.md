@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.up.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Meriem%20Touihri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descSize=16&descAlignY=62" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Architecting+Intelligent+AI+Models;Building+Data-Driven+Engineering+Systems;Scaling+Machine+Learning+Pipelines" alt="Typing SVG" />
-</p>
+### 🚀 Architecting Intelligent AI Models & Scalable Engineering Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cycle-Engineering%20Data%20Science%20%26%20AI-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
