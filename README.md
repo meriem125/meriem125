@@ -189,6 +189,14 @@ Driven by a rigorous analytical mindset, I focus on optimizing predictive perfor
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/meriem125/meriem125/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
@@ -205,3 +213,4 @@ open_to:
   - "Data Science Engineering Roles"
   - "AI & Machine Learning Opportunities"
   - "Open Source Collaborations"
+</div>
