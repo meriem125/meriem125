@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.up.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=220&section=header&text=Meriem%20Touihri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Engineering%20Student&descSize=16&descAlignY=62" width="100%" />
 
-<h2>🚀 Architecting Intelligent AI Models & Scalable Engineering Systems</h2>
+<h2 align="center">🚀 Architecting Intelligent AI Models & Scalable Engineering Systems</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cycle-Engineering%20Data%20Science%20%26%20AI-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
@@ -100,81 +100,4 @@ Driven by a rigorous analytical mindset, I focus on optimizing predictive perfor
 | **Scale** | Real-time synchronization across cross-platform client interfaces |
 | **Performance** | Instantaneous state updates and reactive data streams |
 | **Security** | Token-based authentication and strict row-level security (RLS) |
-| **Impact** | Streamlined asset tracking accuracy and eliminated manual reconciliation overhead |
-| **Repository** | [View Source Code](https://github.com/meriem125) |
-
-</details>
-
-<details>
-<summary><b> Agribusiness AI & Sustainability Solution (RAIA Challenge)</b></summary>
-
-> Developed under the Enactus Tunisia National Expo framework, targeting technological solutions for sustainable agricultural supply chains.
-
-| Metric / Attribute | Specification |
-| :--- | :--- |
-| **Stack** | Python, Data Analytics, Agile Prototyping |
-| **Scale** | National competition deployment targeting local agricultural impact |
-| **Performance** | Efficient resource utilization models for sustainable yield tracking |
-| **Security** | Compliant data handling frameworks for community analytics |
-| **Impact** | Promoted sustainable farming practices through structured tech interventions |
-| **Repository** | [View Source Code](https://github.com/meriem125) |
-
-</details>
-
----
-
-## 💼 Experience
-
-### Software Engineering & Project Intern
-**Regional Direction of Tunisie Télécom** | *2026*
-- Engineered a centralized technical intervention management platform to optimize field operations and service request lifecycles.
-- Formulated comprehensive system specifications, entity-relationship models, and UML diagrams for system architecture validation.
-- Collaborated with engineering stakeholders to streamline database schemas and ensure high availability across internal nodes.
-- **Key Skills:** System Architecture, Database Design, UML Modeling, Full-Stack Development
-
-### Member & Technical Contributor
-**Enactus Tunisia (RAIA Challenge & 4Bees Community)** | *2024 – Present*
-- Contributed to sustainability-driven technological initiatives focusing on smart agribusiness solutions and community empowerment.
-- Developed data-backed prototyping models and presented scalable architectural proposals at national exposition events.
-- **Key Skills:** Project Management, Sustainable Tech, Technical Pitching, Problem Solving
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Enactus National Expo Participant** | Selected participant in the RAIA Challenge focusing on impactful agribusiness innovations (2026) |
-| **Software Engineering Degree** | Graduated from ISLAIB Béja with specialized focus on software systems and information engineering (2025) |
-| **Data Science Engineering Cycle** | Advanced into Engineering Cycle studies specialized in Data Science and Artificial Intelligence |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-Machine%20Learning%20Specialization-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📊 Coding Profiles
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Coding%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solving-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-Algorithmic%20Skills-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="
+| **Impact** | Streamlined asset tracking accuracy and eliminated manual reconciliation overhead
